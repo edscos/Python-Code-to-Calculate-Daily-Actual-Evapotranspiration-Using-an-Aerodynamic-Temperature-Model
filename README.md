@@ -52,10 +52,10 @@ Zhang, Y., Liu, C., Lei, Y., Tang, Y., Yu, Q., Shen, Y., & Sun, H. (2006). An in
 
 The Python script labeled "ETa_OSEB_RS_Code.py" performs the calculation of daily actual ETa using an OSEB approach for latent heat flux based on an optimized aerodynamic surface temperature (see Costa-Filho et al., 2021). The remote sensing input data for running this code is point-based measurements of the following variables:
     
-    Nadir-looking surface temperature or Ts (Celsius)
-    Normalized Difference Vegetation Index or NDVI
+   Nadir-looking surface temperature or Ts (Celsius)
+   Normalized Difference Vegetation Index or NDVI
 
-The ancillary data for running this python script are the following variables:
+The ancillary data input for running this python script are the following variables:
   
    Air temperature above the canopy or Ta (Celsius)
    Incoming short-wave solar radiation or Rs (W/m^2)
